@@ -28,10 +28,7 @@ OpenCV, NumPy, Pandas, Matplotlib
 3D ResNet-18
 ### Development: 
 Google Colab
-## Future Improvements
-- Increase temporal context by using LSTM/GRU for sequential modeling.
-- Enhance recall with weighted loss functions for imbalanced anomaly classes.
-- Explore Transformer-based architectures for improved anomaly detection.
-
+## Dataset
+The model is trained on a balanced dataset consisting of images for the sixth issue of the Saudi Arabian currency banknotes. The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/mateohervas/dcsass-dataset).
 ## Paper
 https://drive.google.com/file/d/1Uq8vlYDl1wO100g31ImUA_tJhPSDGorW/view?usp=sharing
